@@ -1,10 +1,10 @@
 
-### BRISTO RESTAURANT WEB APPLICATION
+# BRISTO RESTAURANT WEB APPLICATION
 
 ## OVERVIEW
 This web application enables bristo restaurant sell their food items to customers of which the customers can add the food items they want to purchase to their carts and order for them 
 
-# TECH STACKS AND LIBRARIES
+## TECH STACKS AND LIBRARIES
 * react
 * tailwind css
 * styled-components
@@ -14,9 +14,12 @@ This web application enables bristo restaurant sell their food items to customer
 * @reduxjs/toolkit
 * twin.macro
 
-# LIVE PREVIEW
+## LIVE PREVIEW
  [click here](https://bristo-web-application.vercel.app/)
 
+
+## MOBILE SOURCE CODE
+   [click here](https://github.com/Darlio88/bristo-mobile)
 
  ## SCREENSHOTS
  ![screenshot1](https://ik.imagekit.io/x761p7oyp/bristo-web-application/Screenshot__227__YKBCUbAVh.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663925724603)
